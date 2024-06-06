@@ -39,8 +39,7 @@ This project focuses on developing a machine learning model to detect whether in
 3. **Model Training**: Define and train the CNN model.
 
 4. **Model Evaluation**: Evaluate the model on test data.
-5. 
-6. **Inference**: Make predictions on new images.
+5. **Inference**: Make predictions on new images.
 
 
 ## Dataset
